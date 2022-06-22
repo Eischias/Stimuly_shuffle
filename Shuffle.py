@@ -37,9 +37,9 @@ LBBBText = [FreeTRtext] * (LBBB - 2)
 
 # directory of images
 
-ConName = os.listdir("Q:\\System\\Dropbox\\_Petr\\_Aktualni_Vyzkumy\\_Media_GACR\\fMRI_vetev\\Python\\Stimuly_shuffel\\CONCERNING")
-DisName = os.listdir("Q:\\System\\Dropbox\\_Petr\\_Aktualni_Vyzkumy\\_Media_GACR\\fMRI_vetev\\Python\\Stimuly_shuffel\\DISTURBING")
-NeuName = os.listdir("Q:\\System\\Dropbox\\_Petr\\_Aktualni_Vyzkumy\\_Media_GACR\\fMRI_vetev\\Python\\Stimuly_shuffel\\NEUTRAL")
+ConName = os.listdir("your_path")
+DisName = os.listdir("your_path")
+NeuName = os.listdir("your_path")
 
 #   Shufle each type
 
